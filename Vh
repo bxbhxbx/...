@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/81.0.0.8478;FBBV/5479276;[FBAN/FB4A;FBAV/196.0.0.17;FBBV/423892531;FBDM/{density=2.7,width=1280,height=720};FBLC/en_CN;FBRV/945633723;FBCR/Cozlink;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-S367VL;FBSV/9.2.1;nullFBCA/armeabi-v7a:armeabi;]
