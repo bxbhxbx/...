@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/342.1.0.14.119;FBPN/com.facebook.orca;FBLC/en_US;FBBV/339015010;FBCR/Jio 4G;FBMF/motorola;FBBD/motorola;FBDV/moto e;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.75,width=720,height=1422};FB_FW/1;]
+[FBAN/EMA;FBLC/en_US;FBAV/386.0.0.9.115;FBDM/DisplayMetrics{density=2.0, width=720, height=1552, scaledDensity=2.0, xdpi=268.941, ydpi=269.139, densityDpi=320, noncompatWidthPixels=720, noncompatHeightPixels=1552, noncompatDensity=2.0, noncompatDensityDpi=320, noncompatXdpi=268.941, noncompatYdpi=269.139};]
