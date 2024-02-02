@@ -1,1 +1,1 @@
-[FBAN/EMA;FBLC/en_US;FBAV/386.0.0.9.115;FBDM/DisplayMetrics{density=2.0, width=720, height=1552, scaledDensity=2.0, xdpi=268.941, ydpi=269.139, densityDpi=320, noncompatWidthPixels=720, noncompatHeightPixels=1552, noncompatDensity=2.0, noncompatDensityDpi=320, noncompatXdpi=268.941, noncompatYdpi=269.139};]
+[FBAN/EMA;FBLC/en_US;FBAV/261.0.0.11.119;FBDM/DisvlayMetrics{density=2.8812501, width=1080, height=2168, scaledDensity=2.8812501, xdvi=397.565, ydvi=395.844};]
