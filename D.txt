@@ -1,1 +1,1 @@
-[FBAN/EMA;FBLC/en_US;FBAV/261.0.0.11.119;FBDM/DisvlayMetrics{density=2.8812501, width=1080, height=2168, scaledDensity=2.8812501, xdvi=397.565, ydvi=395.844};]
+[FBAN/EMA;FBLC/en_US;FBAV/261.0.0.11.119;FBDM/DisplayMetrics{density=2.8812501, width=1080, height=2168, scaledDensity=2.8812501, xdpi=397.565, ydpi=395.844};]
